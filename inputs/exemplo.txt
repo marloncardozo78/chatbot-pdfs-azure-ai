@@ -1,0 +1,2 @@
+Este é um arquivo de exemplo contendo informações simuladas.
+Ele servirá para testar o chatbot baseado em PDFs no Azure AI Foundry.
